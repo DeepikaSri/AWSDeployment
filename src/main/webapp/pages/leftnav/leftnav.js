@@ -4,7 +4,7 @@ Application.$controller("leftnavPageController", ["$scope", function($scope) {
     /* perform any action on widgets/variables within this block */
     $scope.onPageReady = function() {
         /*
-         * Testing
+         * Testing new changes
          * variables can be accessed through '$scope.Variables' property here
          * e.g. to get dataSet in a staticVariable named 'loggedInUser' use following script
          * $scope.Variables.loggedInUser.getData()
